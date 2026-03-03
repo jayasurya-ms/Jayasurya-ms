@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jayasurya M</h1>
-<h3 align="center">A Beginner frontend and java developer from India</h3>
+<h3 align="center">A Intermediate frontend and Python developer from India</h3>
 
 - 🌱 I’m completed **MCA** in **RVITM**
 - Working As React Developer 
